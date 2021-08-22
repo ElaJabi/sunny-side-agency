@@ -17,6 +17,7 @@ html {
 
 body {
     font-family: var(--barlow);
+    max-width: 1440px;
 }
 
 
